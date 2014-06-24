@@ -1,0 +1,10 @@
+Wstęp, Motywacja
+Część teoretyczna
+- Opis MVC
+- Porównanie do innych wzorców
+Część praktyczna
+- Trasowanie
+- Warstwa Kontrolera
+- Warstwa Modelu
+- Warstwa Widoku
+
